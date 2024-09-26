@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 reach me on git id anmoliot 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am a very funny guy 
+- ⚡ Fun fact: ... I am a hacking enthuiast
+  
 
 <!---
 anmoliot/anmoliot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
