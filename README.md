@@ -1,83 +1,101 @@
-<h1 align="center">whoami: Anmol Gupta</h1>
-<h3 align="center">Offensive Security | Red Teaming | Full-Time CTF Player</h3>
+<!-- Save as README.md in the repo github.com/anmoliot/anmoliot -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/eJPTv3-Certified-red?style=for-the-badge&logo=ine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Full--Time_Roles-brightgreen?style=for-the-badge" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:d63031&height=180&section=header&text=Anmol%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Offensive%20Security%20%7C%20Web%20App%20Pentesting%20%7C%20Recon%20Automation&descAlignY=60&descSize=16" alt="Anmol Gupta banner" />
 
-### `0x00` root@anmol:~$ cat about.txt
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=D63031&center=true&vCenter=true&width=620&lines=I+break+web+apps+(with+permission).;I+automate+recon+so+I+can+think+harder.;I+build+tools+that+map+attack+surface.;Open+to+red+team+%26+pentest+internships.)](https://cv-anmolgupta.netlify.app)
 
-```
-> 3rd-year CS undergrad, Cambridge Institute of Technology, Bengaluru (Class of 2027)
-> Specializing in offensive security — recon, exploitation, and detection engineering
-> eJPTv3 certified | targeting Red Team & Penetration Testing roles
-> Full-time CTF player — PicoCTF, TryHackMe
-```
+[![eJPTv3](https://img.shields.io/badge/eJPTv3-Certified-red?style=for-the-badge)](https://ine.com)
+[![Open to work](https://img.shields.io/badge/Open_to-Internships_%26_Remote-brightgreen?style=for-the-badge)](mailto:anmolgupta.nick@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![picoCTF](https://img.shields.io/badge/picoCTF-player-orange?style=for-the-badge)](https://play.picoctf.org/users/YOUR_PICO_USERNAME)
+
+</div>
 
 ---
 
-### `0x01` Flagship Projects
+## 👋 Hey, I'm Anmol
 
-**🛰️ AdaptiveScan** — Continuous Attack Surface Management & Exposure Intelligence
-Built to give security teams a live, continuously-updated map of their exposure rather than a point-in-time scan — the shift from periodic pentests to always-on ASM.
+I'm a 3rd-year CS student at Cambridge Institute of Technology, Bengaluru (class of 2027), and I want to do offensive security for a living.
 
-**🛡️ SentinelCrypt EDR** — AI-Assisted Ransomware Detection & Response
-Endpoint detection tooling that layers ML-driven behavioral analysis on top of traditional signature detection to catch ransomware earlier in the kill chain.
-`github.com/saloni1225/ransomware`
+I'm the person who reads the CSP header before the page loads. I like recon, finding the thing nobody locked down, and then writing the tool so I never have to do it by hand again.
 
----
-
-### `0x02` Field Work
-
-Real recon, not just lab boxes. Structured methodology across live targets:
-
-```bash
-$ recon-flow
-├── subdomain enum      → httpx
-├── vuln scanning        → nuclei, nikto
-├── manual analysis       → CSP / header review
-└── findings              → misconfigured CSP, exposed unauth APIs, unprotected subdomains
-```
-
-Toolbelt: `Burp Suite Pro` `Kali Linux` `Nmap` `Metasploit` `Wireshark` `OWASP ZAP`
+**I'm looking for:** red team / penetration testing internships and remote junior security work.
 
 ---
 
-### `0x03` Currently
+## 🛠️ What I've built
 
-```
-[+] Learning:      Advanced Penetration Testing, Red Team Ops, Threat Hunting
-[+] Collaborating: Security research, OSS security tooling, CTF teams
-[+] Ask me about:  Ethical hacking, Python, Linux internals, web app security
+| Project | What it does | Stack |
+|---|---|---|
+| 🛰️ **[AdaptiveScan](https://github.com/anmoliot/REPLACE_WITH_REPO)** | Continuous attack surface management. Gives you a live map of what's exposed instead of a once-a-year pentest snapshot. | `Python` |
+| 🛡️ **[SentinelCrypt EDR](https://github.com/REPLACE_WITH_REPO)** | Ransomware detection that layers ML behavioural analysis over signatures, to catch it earlier in the kill chain. | `Python` `ML` |
+| 🎣 **[PhishGuard](https://github.com/anmoliot/phishguard)** | Phishing detection tool. | `Python` |
+| 🌐 **[IoT AI Cyber Attack Detection](https://github.com/anmoliot/iot-ai-cyber-attack-detection)** | ML-based detection of attacks on IoT traffic. | `Jupyter` |
+
+---
+
+## 🔎 How I work a target
+
+*Authorised targets only: bug bounty / VDP scope, labs and CTFs.*
+
+```text
+recon-flow
+├── subdomain enum     → subfinder / httpx
+├── vuln scanning      → nuclei, nikto
+├── manual analysis    → CSP & header review, API exposure checks
+└── typical findings   → weak CSP, unauthenticated APIs, forgotten subdomains
 ```
 
----
-
-### `0x04` Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=anmoliot&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anmoliot&theme=blue_navy&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anmoliot&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+📝 **Writeups:** [add link to your blog / writeups repo here, even 3 good ones help a lot]
 
 ---
 
-### `0x05` Connect
+## 🧰 Toolbelt
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anmol-gupta-729b7a269/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://cv-anmolgupta.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:anmolgupta.nick@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596D1?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anmoliot&icon=0&color=0" />
-</p>
+---
+
+## 🎯 Right now
+
+- 📚 Working through advanced pentesting, red team ops and threat hunting
+- 🔨 Building out AdaptiveScan
+- 🤝 Happy to collaborate on OSS security tooling and CTF teams
+- 💬 Ask me about web app security, Linux internals, Python
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anmoliot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoliot&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmoliot&theme=react-dark&hide_border=true" alt="Contribution graph" />
+
+<img src="https://raw.githubusercontent.com/anmoliot/anmoliot/output/github-snake-dark.svg" alt="Contribution snake" />
+
+</div>
+
+---
+
+## 📫 Let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-gupta-729b7a269/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://cv-anmolgupta.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolgupta.nick@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d63031,100:0d1117&height=100&section=footer" alt="" />
+</div>
