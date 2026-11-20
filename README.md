@@ -48,7 +48,7 @@ recon-flow
 └── typical findings   → weak CSP, unauthenticated APIs, forgotten subdomains
 ```
 
-📝 **Writeups:** [add link to your blog / writeups repo here, even 3 good ones help a lot]
+📝 **Writeups:** https://medium.com/@recoxy
 
 ---
 
