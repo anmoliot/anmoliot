@@ -17,7 +17,7 @@
 
 ## 👋 Hey, I'm Anmol
 
-I'm a 3rd-year CS student at Cambridge Institute of Technology, Bengaluru (class of 2027), and I want to do offensive security for a living.
+I'm a Final-year CS student at Cambridge Institute of Technology, Bengaluru (class of 2027), and I want to do offensive security for a living.
 
 I'm the person who reads the CSP header before the page loads. I like recon, finding the thing nobody locked down, and then writing the tool so I never have to do it by hand again.
 
@@ -29,10 +29,10 @@ I'm the person who reads the CSP header before the page loads. I like recon, fin
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛰️ **[AdaptiveScan](https://github.com/anmoliot/REPLACE_WITH_REPO)** | Continuous attack surface management. Gives you a live map of what's exposed instead of a once-a-year pentest snapshot. | `Python` |
+| 🛰️ **[AdaptiveScan](https://github.com/anmoliot/ransomware-defense-system.git)** | Continuous attack surface management. Gives you a live map of what's exposed instead of a once-a-year pentest snapshot. | `Python` |
 | 🛡️ **[SentinelCrypt EDR](https://github.com/REPLACE_WITH_REPO)** | Ransomware detection that layers ML behavioural analysis over signatures, to catch it earlier in the kill chain. | `Python` `ML` |
-| 🎣 **[PhishGuard](https://github.com/anmoliot/phishguard)** | Phishing detection tool. | `Python` |
-| 🌐 **[IoT AI Cyber Attack Detection](https://github.com/anmoliot/iot-ai-cyber-attack-detection)** | ML-based detection of attacks on IoT traffic. | `Jupyter` |
+| 🎣 **[AnalystForge](https://github.com/anmoliot/AnalystForge.git)** | Automatted Market Analysis Platform . | `Python` |
+| 🌐 **[IoT AI Cyber Attack Detection](https://github.com/anmoliot/iot-ai-cyber-attack-detection)** | ML-based detection of attacks on IoT traffic. | `Python` |
 
 ---
 
